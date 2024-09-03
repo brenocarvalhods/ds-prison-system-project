@@ -23,22 +23,22 @@ Breno Carvalho - Project Lead
 
 **05. INDEX:**
 
-1. Structuring Action - Generate Professionals Without Output:
+**1. Structuring Action - Generate Professionals Without Output:**
 
 - Load Data of Professionals Who Had No Output in the Month.
 
-2. Structuring Action - High Utilizers:
+**2. Structuring Action - High Utilizers:**
 
 - Code to Generate High Utilizers (Incarcerated Individuals with More Than 8 Services per Professional Category) in Healthcare.
 
-3. Structuring Action - Prison Registrations:
+**3. Structuring Action - Prison Registrations:**
 
 - The code below aims to load some DataFrames, perform merges between them, and generate the necessary tabs for analyzing prison system registration data.
 
-4. Structuring Action - Tuberculosis Indicator:
+**4. Structuring Action - Tuberculosis Indicator:**
 
 - Code Responsible for Developing the Tuberculosis Indicator, Focusing on Those Who Have Already Been Served by Healthcare Units.
 
-5. Structuring Actions - Consolidation of Procedures:
+**5. Structuring Actions - Consolidation of Procedures:**
 
 - The code is responsible for consolidating the procedures performed by the healthcare teams.
