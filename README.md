@@ -24,14 +24,14 @@ Com base nos dados coletados, desenvolvemos indicadores fundamentais que possibi
    
 **3.	Proporção de Pessoas Privadas de Liberdade (PPL) com tuberculose que receberam atendimento individual (consulta)** – Focamos em presos diagnosticados com tuberculose, garantindo que todos recebam consultas regulares para acompanhamento adequado.
    
-**4.	Proporção de PPL com hipertensão que receberam atendimento individual (consulta)** – Esse indicador mede o atendimento individual de presos com hipertensão, uma das condições crônicas mais prevalentes no sistema.
+**4.	Proporção de Pessoas Privadas de Liberdade (PPL) com hipertensão que receberam atendimento individual (consulta)** – Esse indicador mede o atendimento individual de presos com hipertensão, uma das condições crônicas mais prevalentes no sistema.
    
-**5.	Proporção de PPL com condição de saúde mental que receberam atendimento individual (consulta)** – Com esse indicador, monitoramos o atendimento prestado a presos com problemas de saúde mental, garantindo suporte especializado.
+**5.	Proporção de Pessoas Privadas de Liberdade (PPL) com condição de saúde mental que receberam atendimento individual (consulta)** – Com esse indicador, monitoramos o atendimento prestado a presos com problemas de saúde mental, garantindo suporte especializado.
    
-**6.	Hiperutilizadores (PPLs que tiveram mais de 8 atendimentos por uma categoria profissional no ano)** – Esse indicador identifica os presos que utilizam os serviços de saúde com maior frequência, permitindo um foco em suas necessidades específicas e maior eficiência no atendimento."
+**6.	Hiperutilizadores (PPLs que tiveram mais de 8 atendimentos por uma categoria profissional no ano)** – Esse indicador identifica os presos que utilizam os serviços de saúde com maior frequência, permitindo um foco em suas necessidades específicas e maior eficiência no atendimento.
 
 ## **6. O Impacto: Redução de Custos e Melhor Atendimento**
-O impacto foi imediato: focar nos 3% que mais demandavam recursos gerou uma economia substancial para o sistema prisional. O que antes parecia um gasto incontrolável se tornou gerenciável. Além disso, os presos receberam um atendimento mais direcionado e eficaz. Ver os resultados foi a confirmação de que, quando os dados contam a história certa, eles realmente podem mudar o curso das coisas.
+O impacto foi imediato: focar nos 3% que mais demandavam recursos gerou uma economia substancial para o sistema prisional. O que antes parecia um gasto demasiado se tornou gerenciável. Além disso, os presos receberam um atendimento mais direcionado e eficaz. Ver os resultados foi a confirmação de que, quando os dados contam a história certa, eles realmente podem mudar o curso das coisas.
 
 ## **7. Conclusão: O Futuro dos Dados na Saúde Prisional**
 Essa análise foi apenas o começo. O uso de dados para melhorar a saúde prisional abre portas para novas possibilidades. Imagine o que mais podemos alcançar se continuarmos a usar dados de forma inteligente, não só para prever problemas, mas para preveni-los. A saúde pública, mesmo em ambientes tão difíceis quanto o sistema prisional, pode ser transformada – basta sabermos onde e como olhar.
